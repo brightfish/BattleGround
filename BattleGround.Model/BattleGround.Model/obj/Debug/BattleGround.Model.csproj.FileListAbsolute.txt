@@ -1,0 +1,4 @@
+c:\users\chris.nimmons\documents\visual studio 2013\Projects\BattleGround.Model\BattleGround.Model\bin\Debug\BattleGround.Model.dll
+c:\users\chris.nimmons\documents\visual studio 2013\Projects\BattleGround.Model\BattleGround.Model\bin\Debug\BattleGround.Model.pdb
+c:\users\chris.nimmons\documents\visual studio 2013\Projects\BattleGround.Model\BattleGround.Model\obj\Debug\BattleGround.Model.dll
+c:\users\chris.nimmons\documents\visual studio 2013\Projects\BattleGround.Model\BattleGround.Model\obj\Debug\BattleGround.Model.pdb

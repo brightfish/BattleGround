@@ -1,0 +1,7 @@
+c:\users\chris.nimmons\documents\visual studio 2013\Projects\BattleGround.Model\BattleGround.Tests\bin\Debug\BattleGround.Tests.dll
+c:\users\chris.nimmons\documents\visual studio 2013\Projects\BattleGround.Model\BattleGround.Tests\bin\Debug\BattleGround.Tests.pdb
+c:\users\chris.nimmons\documents\visual studio 2013\Projects\BattleGround.Model\BattleGround.Tests\bin\Debug\BattleGround.Model.dll
+c:\users\chris.nimmons\documents\visual studio 2013\Projects\BattleGround.Model\BattleGround.Tests\bin\Debug\BattleGround.Model.pdb
+c:\users\chris.nimmons\documents\visual studio 2013\Projects\BattleGround.Model\BattleGround.Tests\obj\Debug\BattleGround.Tests.csprojResolveAssemblyReference.cache
+c:\users\chris.nimmons\documents\visual studio 2013\Projects\BattleGround.Model\BattleGround.Tests\obj\Debug\BattleGround.Tests.dll
+c:\users\chris.nimmons\documents\visual studio 2013\Projects\BattleGround.Model\BattleGround.Tests\obj\Debug\BattleGround.Tests.pdb
